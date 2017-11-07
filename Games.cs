@@ -1,6 +1,13 @@
 This comment was added to confirm step 7's completion
 
 This comment was added while Master Branch was active
+1
+2
+3
+4
+5
+6
+7
 
 using System;
 using System.Collections.Generic;
