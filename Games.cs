@@ -1,4 +1,7 @@
-﻿using System;
+This comment was added to confirm step 7's completion
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
